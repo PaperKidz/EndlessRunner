@@ -7,7 +7,7 @@ public class PlayerController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("yamini didi is wild");
+        Debug.Log("tilak didi is wild");
     }
 
     // Update is called once per frame
