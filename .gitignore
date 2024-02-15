@@ -10,6 +10,8 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+/[Mm]ods/
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
@@ -58,7 +60,10 @@ sysinfo.txt
 # Builds
 *.apk
 *.aab
+<<<<<<< HEAD
 *.unitypackage
+=======
+>>>>>>> master
 *.app
 
 # Crashlytics generated file
@@ -70,3 +75,16 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+<<<<<<< HEAD
+=======
+
+# VSCode
+.vscode
+
+# Rider
+.idea
+
+# MacOS
+.DS_Store
+**/.DS_Store
+>>>>>>> master
